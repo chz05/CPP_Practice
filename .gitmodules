@@ -4,3 +4,6 @@
 [submodule "AP1400-2-HW2"]
 	path = AP1400-2-HW2
 	url = git@github.com:chz05/AP1400-2-HW2.git
+[submodule "AP1400-2-HW3"]
+	path = AP1400-2-HW3
+	url = git@github.com:chz05/AP1400-2-HW3.git
